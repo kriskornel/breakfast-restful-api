@@ -5,17 +5,11 @@
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.runtimeconfig.json
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.dll
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.pdb
-/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
-/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Microsoft.OpenApi.dll
-/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
-/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.AssemblyReference.cache
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.AssemblyInfoInputs.cache
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.AssemblyInfo.cs
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.csproj.CoreCompileInputs.cache
-/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.MvcApplicationPartsAssemblyInfo.cs
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/staticwebassets.build.json
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/staticwebassets.development.json
@@ -31,3 +25,5 @@
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.pdb
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/BuberBreakfast.genruntimeconfig.cache
 /Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/obj/Debug/net8.0/ref/BuberBreakfast.dll
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb
