@@ -1,0 +1,11 @@
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.deps.json
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.dll
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.dll
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/refint/BuberBreakfast.Contracts.dll
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/BuberBreakfast.Contracts.pdb
+/Users/cutie/Documents/Project-Idea/dotnet-restful-api/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net8.0/ref/BuberBreakfast.Contracts.dll
